@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1155d9633e9328e48bea2f068f968e32, type: 3}
+  m_Name: Ore Images
+  m_EditorClassIdentifier: 
+  Boundary:
+  - {fileID: 2100000, guid: d9a95648e82caa7459f1106df0da4af2, type: 2}
+  - {fileID: 2100000, guid: 3f532fd3bc3865a47b05fffc3fe2b8f7, type: 2}
+  - {fileID: 2100000, guid: de88005d1f5e1554494e69b81da77235, type: 2}
+  Sand:
+  - {fileID: 2100000, guid: 1cef938def0b527469f8ef0720c534dc, type: 2}
+  Wall:
+  - {fileID: 2100000, guid: c3c8b2e7507849f43a31e15b9d7c3dc2, type: 2}
+  - {fileID: 2100000, guid: 533b4146d42e51242a9a93ccd869a855, type: 2}
+  - {fileID: 2100000, guid: 769d192c127c1e64da6f0234ec9b9969, type: 2}
+  - {fileID: 2100000, guid: 38eaf5109156569489bf8f2929fd35a8, type: 2}
+  Bronze:
+  - {fileID: 2100000, guid: c3c8b2e7507849f43a31e15b9d7c3dc2, type: 2}
+  Silver:
+  - {fileID: 2100000, guid: 533b4146d42e51242a9a93ccd869a855, type: 2}
+  Gold:
+  - {fileID: 2100000, guid: 769d192c127c1e64da6f0234ec9b9969, type: 2}
+  Diamond:
+  - {fileID: 2100000, guid: 38eaf5109156569489bf8f2929fd35a8, type: 2}
+  Miniore:
+  - {fileID: 2100000, guid: 38eaf5109156569489bf8f2929fd35a8, type: 2}
+  BronzeOre: {fileID: 2100000, guid: 37c926b975d79cc4185a8b51a3f2e726, type: 2}
+  SilverOre: {fileID: 2100000, guid: 9792332e77c799d47b1dfb11731424a0, type: 2}
+  GoldOre: {fileID: 2100000, guid: 6dc15527719bc364a810dec34600054e, type: 2}
+  DiamondOre: {fileID: 2100000, guid: d5d9b0bbae3e4334c9b32777c3d38a68, type: 2}
+  MinioreOre: {fileID: 2100000, guid: 02d4363d5b0c923498338d709e655ac2, type: 2}
